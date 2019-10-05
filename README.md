@@ -1,7 +1,7 @@
 # ART with AI: Using Tensorflow 2.0 and Deep Dream Algorithm
 ![starrynight](starrynight-final.png)
 
-This project detects traffic signs for your self-driving car using LeNet network and [Tensorflow](https://www.tensorflow.org) 2.0. 
+This project creates art using computer vision algorithm created by Alexander Mordvintsev from Google and [Tensorflow](https://www.tensorflow.org) 2.0. 
 
 ### Data Reference:
 
